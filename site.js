@@ -1,2 +1,3 @@
+// Learning to use Git hub
 alert("Hola Git Hub.");
-console.log("NUevo cambio");
+console.log("Nuevo cambio");
